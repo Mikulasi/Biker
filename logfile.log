@@ -1,0 +1,97 @@
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:16 - Inside main class
+15-06-2014 15:45:19 DEBUG main by.bsu.com.yakovlev.biker.kit.Kit:<init>:15 - Inside Kit.class
+15-06-2014 15:45:19 INFO  main by.bsu.com.yakovlev.biker.kit.Helm:<init>:9 - Inside Helm.class
+15-06-2014 15:45:19 DEBUG main by.bsu.com.yakovlev.biker.kit.Kit:<init>:15 - Inside Kit.class
+15-06-2014 15:45:19 INFO  main by.bsu.com.yakovlev.biker.kit.Gloves:<init>:9 - Inside Gloves.class
+15-06-2014 15:45:19 DEBUG main by.bsu.com.yakovlev.biker.kit.Kit:<init>:15 - Inside Kit.class
+15-06-2014 15:45:19 INFO  main by.bsu.com.yakovlev.biker.kit.Jacket:<init>:9 - Inside Jacket.class
+15-06-2014 15:45:19 DEBUG main by.bsu.com.yakovlev.biker.kit.Kit:<init>:15 - Inside Kit.class
+15-06-2014 15:45:19 INFO  main by.bsu.com.yakovlev.biker.kit.Pants:<init>:10 - Inside Pants.class
+15-06-2014 15:45:19 DEBUG main by.bsu.com.yakovlev.biker.kit.Kit:<init>:15 - Inside Kit.class
+15-06-2014 15:45:19 INFO  main by.bsu.com.yakovlev.biker.kit.Pants:<init>:9 - Inside Boots.class
+15-06-2014 15:45:19 DEBUG main by.bsu.yakovlev.biker.main.BikerMain:main:34 - Total cost: 4000$
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:39 - Price: 200. Weight: 0.2. Name is: Motorcycle gloves
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:39 - Price: 800. Weight: 1.0. Name is: Motorcycle pants
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:39 - Price: 1000. Weight: 2.5. Name is: Motorcycle helm
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:39 - Price: 500. Weight: 3.0. Name is: Motorcycle boots
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:39 - Price: 1500. Weight: 4.0. Name is: Motorcycle jacket
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:43 - Appliances with the weight in selected range:
+15-06-2014 15:45:19 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:45 - Price: 200. Weight: 0.2. Name is: Motorcycle gloves
+22-06-2014 18:09:37 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:15 - Inside main class
+22-06-2014 18:09:37 DEBUG main by.bsu.yakovlev.biker.main.BikerMain:main:23 - Total cost: 4100$
+22-06-2014 18:09:37 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:27 - by.bsu.yakovlev.biker.bikercreator.BikerCreator@5f0772d2
+22-06-2014 18:09:37 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:30 - Appliances with the weight in selected range: 
+22-06-2014 18:09:37 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:32 - by.bsu.yakovlev.biker.hyerarchy.Gloves@620369bb
+23-06-2014 00:05:14 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #1
+23-06-2014 00:05:14 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Price: 800,Weight: 1.5, Company name: BMW, Color: White, Helm type: FULL_FACE, Price: 1000,Weight: 1.8, Company name: Fox, Color: WhiteKevlar availability: false, MaterialTEXTILE]
+23-06-2014 00:05:14 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 1800
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #1
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Price: 800,Weight: 1.5, Company name: BMW, Color: White, Helm type: FULL_FACE, Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 1300
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 500
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS, Price: 800,Weight: 1.5, Company name: BMW, Color: White, Helm type: FULL_FACE]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #2
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Price: 1500,Weight: 2.3, Company name: Honda, Color: BlackJacket type: RACEMaterial: LEATHER, Price: 1500,Weight: 2.3, Company name: Honda, Color: BlackJacket type: RACEMaterial: LEATHER, Price: 1000,Weight: 1.8, Company name: Fox, Color: WhiteKevlar availability: false, MaterialTEXTILE, Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 4500
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 500
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS, Price: 1000,Weight: 1.8, Company name: Fox, Color: WhiteKevlar availability: false, MaterialTEXTILE, Price: 1500,Weight: 2.3, Company name: Honda, Color: BlackJacket type: RACEMaterial: LEATHER, Price: 1500,Weight: 2.3, Company name: Honda, Color: BlackJacket type: RACEMaterial: LEATHER]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #3
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Price: 300,Weight: 0.2, Company name: Fox, Color: WhiteMaterial: TEXTILE, Protect availability false, Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 800
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 0
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Price: 300,Weight: 0.2, Company name: Fox, Color: WhiteMaterial: TEXTILE, Protect availability false, Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Price: 300,Weight: 0.2, Company name: Fox, Color: WhiteMaterial: TEXTILE, Protect availability false, Price: 500,Weight: 1.0, Company name: Fox, Color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:33:37 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:12 - 3
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #1
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 0
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 0
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: []
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): []
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #2
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 2100
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 0
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false, Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #3
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 5400
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 1100
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false, Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false]
+23-06-2014 00:41:30 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:12 - 3
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #1
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false, Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 3300
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false, Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS, Pants price: 1000,Pants weight: 1.8,Pants company name: Fox,Pants color: WhitePants kevlar availability: false, Pants materialTEXTILE, Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER]
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Gloves price: 300,Gloves weight: 0.2,Gloves company name: Fox,Gloves color: WhiteGloves material: TEXTILE,Gloves protect availability false, Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #2
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 500
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 00:52:12 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:12 - 2
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #1
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE, Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 1300
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 500
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS, Helm price: 800,Helm weight: 1.5,Helm company name: BMW,Helm color: White, Helm type: FULL_FACE]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): [Boots price: 500,Boots weight: 1.0,Boots company name: Fox,Boots color: Black, Boots type: SPORT_BOOTS]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:12 - Biker #2
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:15 - Total ammunition on biker is(are):[Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER, Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:16 - Total cost is 3000
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:19 - Current ammunition on biker is(are):[Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:20 - Current cost is 1500
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:23 - Ammunition sorted by weight: [Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER, Jacket price: 1500,Jacket weight: 2.3,Jacket company name: Honda,Jacket color: BlackJacket type: RACE, Jacket material: LEATHER]
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.bikercreator.Control:TestControl:25 - Suitable ammunition for this biker is(are): []
+23-06-2014 01:02:07 INFO  main by.bsu.yakovlev.biker.main.BikerMain:main:12 - 2
